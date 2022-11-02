@@ -1,0 +1,460 @@
+The target system is: Generic - 3.1.99 - arm
+The host system is: Darwin - 21.6.0 - arm64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /opt/nordic/ncs/toolchains/v2.1.1/opt/zephyr-sdk/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is GNU, found in "/Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/3.20.5/CompilerIdC/CMakeCCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /opt/nordic/ncs/toolchains/v2.1.1/opt/zephyr-sdk/arm-zephyr-eabi/bin/arm-zephyr-eabi-g++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is GNU, found in "/Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
+arm-zephyr-eabi-gcc (Zephyr SDK 0.14.1) 10.3.0
+Copyright (C) 2020 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_5b3a9 && [1/2] Building C object CMakeFiles/cmTC_5b3a9.dir/src.c.obj
+[2/2] Linking C executable cmTC_5b3a9
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0_ succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_f8075 && [1/2] Building C object CMakeFiles/cmTC_f8075.dir/src.c.obj
+[2/2] Linking C executable cmTC_f8075
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wall_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_a8393 && [1/2] Building C object CMakeFiles/cmTC_a8393.dir/src.c.obj
+[2/2] Linking C executable cmTC_a8393
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wformat_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_013de && [1/2] Building C object CMakeFiles/cmTC_013de.dir/src.c.obj
+[2/2] Linking C executable cmTC_013de
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wformat_security_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_2cbea && [1/2] Building C object CMakeFiles/cmTC_2cbea.dir/src.c.obj
+cc1: warning: '-Wformat-security' ignored without '-Wformat' [-Wformat-security]
+[2/2] Linking C executable cmTC_2cbea
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wformat_zero_length_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_18c4f && [1/2] Building C object CMakeFiles/cmTC_18c4f.dir/src.c.obj
+cc1: warning: '-Wformat-zero-length' ignored without '-Wformat' [-Wformat-zero-length]
+[2/2] Linking C executable cmTC_18c4f
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wmain_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_7e818 && [1/2] Building C object CMakeFiles/cmTC_7e818.dir/src.c.obj
+[2/2] Linking C executable cmTC_7e818
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wpointer_sign_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_c11ce && [1/2] Building C object CMakeFiles/cmTC_c11ce.dir/src.c.obj
+[2/2] Linking C executable cmTC_c11ce
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wpointer_arith_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_a1194 && [1/2] Building C object CMakeFiles/cmTC_a1194.dir/src.c.obj
+[2/2] Linking C executable cmTC_a1194
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wexpansion_to_defined_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_cb21b && [1/2] Building C object CMakeFiles/cmTC_cb21b.dir/src.c.obj
+[2/2] Linking C executable cmTC_cb21b
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wlogical_op_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_b1af1 && [1/2] Building C object CMakeFiles/cmTC_b1af1.dir/src.c.obj
+[2/2] Linking C executable cmTC_b1af1
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wmissing_field_initializers_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_219e0 && [1/2] Building C object CMakeFiles/cmTC_219e0.dir/src.c.obj
+[2/2] Linking C executable cmTC_219e0
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wpacked_bitfield_compat_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_b4b9c && [1/2] Building C object CMakeFiles/cmTC_b4b9c.dir/src.c.obj
+[2/2] Linking C executable cmTC_b4b9c
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wvla_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_1a6df && [1/2] Building C object CMakeFiles/cmTC_1a6df.dir/src.c.obj
+[2/2] Linking C executable cmTC_1a6df
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wunused_but_set_variable_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_3deef && [1/2] Building C object CMakeFiles/cmTC_3deef.dir/src.c.obj
+[2/2] Linking C executable cmTC_3deef
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Werror_implicit_int_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_e0dc1 && [1/2] Building C object CMakeFiles/cmTC_e0dc1.dir/src.c.obj
+[2/2] Linking C executable cmTC_e0dc1
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_freestanding_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_a1c13 && [1/2] Building C object CMakeFiles/cmTC_a1c13.dir/src.c.obj
+[2/2] Linking C executable cmTC_a1c13
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_ffreestanding_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_d8e5e && [1/2] Building C object CMakeFiles/cmTC_d8e5e.dir/src.c.obj
+[2/2] Linking C executable cmTC_d8e5e
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_gdwarf_4_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_9f4f3 && [1/2] Building C object CMakeFiles/cmTC_9f4f3.dir/src.c.obj
+[2/2] Linking C executable cmTC_9f4f3
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___print_memory_usage succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_6bb58 && [1/2] Building C object CMakeFiles/cmTC_6bb58.dir/src.c.obj
+[2/2] Linking C executable cmTC_6bb58
+Memory region         Used Size  Region Size  %age Used
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fsanitize_address succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_bd2b0 && [1/2] Building C object CMakeFiles/cmTC_bd2b0.dir/src.c.obj
+[2/2] Linking C executable cmTC_bd2b0
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fsanitize_undefined succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_9f15f && [1/2] Building C object CMakeFiles/cmTC_9f15f.dir/src.c.obj
+[2/2] Linking C executable cmTC_9f15f
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__pg succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_4c4ca && [1/2] Building C object CMakeFiles/cmTC_4c4ca.dir/src.c.obj
+[2/2] Linking C executable cmTC_4c4ca
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__no_pie succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_84579 && [1/2] Building C object CMakeFiles/cmTC_84579.dir/src.c.obj
+[2/2] Linking C executable cmTC_84579
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__mcpu_cortex_m4 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_68eda && [1/2] Building C object CMakeFiles/cmTC_68eda.dir/src.c.obj
+[2/2] Linking C executable cmTC_68eda
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__mthumb succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_88d6b && [1/2] Building C object CMakeFiles/cmTC_88d6b.dir/src.c.obj
+[2/2] Linking C executable cmTC_88d6b
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__mabi_aapcs succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_64b8c && [1/2] Building C object CMakeFiles/cmTC_64b8c.dir/src.c.obj
+[2/2] Linking C executable cmTC_64b8c
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__mfp16_format_ieee succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_b6e25 && [1/2] Building C object CMakeFiles/cmTC_b6e25.dir/src.c.obj
+[2/2] Linking C executable cmTC_b6e25
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___gc_sections succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_da804 && [1/2] Building C object CMakeFiles/cmTC_da804.dir/src.c.obj
+[2/2] Linking C executable cmTC_da804
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___build_id_none succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_c5e69 && [1/2] Building C object CMakeFiles/cmTC_c5e69.dir/src.c.obj
+[2/2] Linking C executable cmTC_c5e69
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___sort_common_descending succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_2f0c0 && [1/2] Building C object CMakeFiles/cmTC_2f0c0.dir/src.c.obj
+[2/2] Linking C executable cmTC_2f0c0
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___sort_section_alignment succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_51809 && [1/2] Building C object CMakeFiles/cmTC_51809.dir/src.c.obj
+[2/2] Linking C executable cmTC_51809
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__nostdlib succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_24172 && [1/2] Building C object CMakeFiles/cmTC_24172.dir/src.c.obj
+[2/2] Linking C executable cmTC_24172
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__static succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_787d3 && [1/2] Building C object CMakeFiles/cmTC_787d3.dir/src.c.obj
+[2/2] Linking C executable cmTC_787d3
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl__X succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_16ec8 && [1/2] Building C object CMakeFiles/cmTC_16ec8.dir/src.c.obj
+[2/2] Linking C executable cmTC_16ec8
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl__N succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_12e96 && [1/2] Building C object CMakeFiles/cmTC_12e96.dir/src.c.obj
+[2/2] Linking C executable cmTC_12e96
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___orphan_handling_warn succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_cdb47 && [1/2] Building C object CMakeFiles/cmTC_cdb47.dir/src.c.obj
+[2/2] Linking C executable cmTC_cdb47
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_asynchronous_unwind_tables_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_cb12f && [1/2] Building C object CMakeFiles/cmTC_cb12f.dir/src.c.obj
+[2/2] Linking C executable cmTC_cb12f
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_pie_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_c5bd8 && [1/2] Building C object CMakeFiles/cmTC_c5bd8.dir/src.c.obj
+[2/2] Linking C executable cmTC_c5bd8
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_pic_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_62e78 && [1/2] Building C object CMakeFiles/cmTC_62e78.dir/src.c.obj
+[2/2] Linking C executable cmTC_62e78
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_reorder_functions_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_ecb86 && [1/2] Building C object CMakeFiles/cmTC_ecb86.dir/src.c.obj
+[2/2] Linking C executable cmTC_ecb86
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_defer_pop_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_21023 && [1/2] Building C object CMakeFiles/cmTC_21023.dir/src.c.obj
+[2/2] Linking C executable cmTC_21023
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fmacro_prefix_map__Users_leif_Code_src_github_leifeggenfellner_nordic_orbit_course_remote_controller_CMAKE_SOURCE_DIR_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_e9c5b && [1/2] Building C object CMakeFiles/cmTC_e9c5b.dir/src.c.obj
+[2/2] Linking C executable cmTC_e9c5b
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fmacro_prefix_map__opt_nordic_ncs_v2_1_1_zephyr_ZEPHYR_BASE_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_43533 && [1/2] Building C object CMakeFiles/cmTC_43533.dir/src.c.obj
+[2/2] Linking C executable cmTC_43533
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fmacro_prefix_map__opt_nordic_ncs_v2_1_1_WEST_TOPDIR_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_7a43c && [1/2] Building C object CMakeFiles/cmTC_7a43c.dir/src.c.obj
+[2/2] Linking C executable cmTC_7a43c
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_ffunction_sections_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_b4370 && [1/2] Building C object CMakeFiles/cmTC_b4370.dir/src.c.obj
+[2/2] Linking C executable cmTC_b4370
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fdata_sections_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include___isystem___opt_nordic_ncs_toolchains_v2_1_1_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_10_3_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/leif/Code/src/github/leifeggenfellner/nordic-orbit-course/remote_controller/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/toolchains/v2.1.1/bin/ninja cmTC_1fca0 && [1/2] Building C object CMakeFiles/cmTC_1fca0.dir/src.c.obj
+[2/2] Linking C executable cmTC_1fca0
+
+
+Source file was:
+int main(void) { return 0; }
